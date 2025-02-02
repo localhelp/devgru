@@ -1,0 +1,16 @@
+/devgru-website
+    /assets
+        /css
+            style.css
+        /images
+            logo.png
+    /includes
+        header.php
+        footer.php
+        navbar.php
+    /pages
+        home.php
+        operations.php
+        news.php
+        contact.php
+    index.php
